@@ -1,0 +1,5 @@
+In your ARGoS working environment test the code by executing the following instruction:
+
+python test-params.py
+
+If everything works fine, as a result you should see a floating number in [0,1] printed to the stdout.
