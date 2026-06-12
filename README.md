@@ -4,13 +4,6 @@
 
 This repository contains the laboratory assignments completed for the Intelligent Robotic Systems course. Each lab focuses on a different a differet discipline taught in the course. 
 
-### Course Objectives
-
-* Understand the fundamentals of robotics.
-* Model robotic systems mathematically.
-* Implement kinematic and dynamic algorithms.
-* Design and evaluate robot control strategies.
-* Develop autonomous robotic behaviors through simulation and experimentation.
 
 ---
 
